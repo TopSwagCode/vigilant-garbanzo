@@ -1,2 +1,2 @@
 # vigilant-garbanzo
-Blazor WASM
+Blazor WASM is awesome and easy
